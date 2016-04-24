@@ -1181,7 +1181,9 @@ h6,
 .h1,
 .h2,
 .h3,
-.h4,
+.h4 {
+    color: #ffffff;
+}
 .h5,
 .h6 {
   font-family: inherit;
